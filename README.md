@@ -402,25 +402,6 @@ Potential extensions include:
 - Real-time replanning when environmental conditions change.
 - Advanced explainability and agent-based decision analysis.
 
-## 🎓 Academic Information
-
-**Project Title:** UAV Path Planning Using Agentic AI
-
-**Project Type:** ORDA Lab Project
-
-**Submitted By:**  
-Sushil Kumar  
-M.Tech – Operations Research and Data Analytics  
-Indian Institute of Technology Kharagpur
-
-**Submitted To:**  
-Dr. Subhajit Sidhanta  
-Assistant Professor Grade-I  
-Department of Industrial and Systems Engineering  
-Indian Institute of Technology Kharagpur
-
-**Academic Year:** 2026–2027
-
 ## 👨‍💻 Author
 
 **Sushil Kumar**  
