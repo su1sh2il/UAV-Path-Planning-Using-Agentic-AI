@@ -429,10 +429,6 @@ Indian Institute of Technology Kharagpur
 
 - GitHub: [su1sh2il](https://github.com/su1sh2il)
 
-## 📄 License
-
-No license has been specified for this repository yet. If you intend to make the project open source, consider adding an appropriate license file.
-
 ---
 
 ⭐ **If you find this project interesting, consider giving the repository a star!**
